@@ -1,0 +1,5 @@
+﻿<?php
+$num = 123345;
+$arr = str_split($num, 1);
+echo = array_sum($arr);
+?>

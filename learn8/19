@@ -1,0 +1,5 @@
+﻿<?php
+$keys = ['a', 'b', 'c'];
+$values = [1, 2, 3];
+var_dump(array_combine($keys, $values));
+?>
